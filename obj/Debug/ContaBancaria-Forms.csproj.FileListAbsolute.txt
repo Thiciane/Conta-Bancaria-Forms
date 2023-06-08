@@ -1,0 +1,16 @@
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria-Forms.csproj.AssemblyReference.cache
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria-Forms.csproj.SuggestedBindingRedirects.cache
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria_Forms.Form1.resources
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria_Forms.Properties.Resources.resources
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria-Forms.csproj.GenerateResource.cache
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria-Forms.csproj.CoreCompileInputs.cache
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\bin\Debug\ContaBancaria-Forms.exe.config
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\bin\Debug\ContaBancaria-Forms.exe
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\bin\Debug\ContaBancaria-Forms.pdb
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria-Forms.exe
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria-Forms.pdb
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria_Forms.Opcoes.resources
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria_Forms.Consultar.resources
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria_Forms.Depositar.resources
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria_Forms.Sacar.resources
+C:\Users\thici\Documents\IFRO\codigos\ContaBancaria-Forms\obj\Debug\ContaBancaria_Forms.Transferir.resources
